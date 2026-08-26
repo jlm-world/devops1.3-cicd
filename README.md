@@ -12,7 +12,7 @@ This project implements a fully automated CI/CD pipeline to deploy the Inventory
 
 ## Screenshots
 
-![CI/CD Pipeline](./screenshots/project3-pipeline.png)
+![CI/CD Pipeline](./cicd.png)
 
 ## What Was Built
 
