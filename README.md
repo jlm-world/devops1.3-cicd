@@ -10,6 +10,10 @@ This project implements a fully automated CI/CD pipeline to deploy the Inventory
 
 ---
 
+## Screenshots
+
+![CI/CD Pipeline](./screenshots/project3-pipeline.png)
+
 ## What Was Built
 
 - GitHub Actions workflow (`.github/workflows/deploy.yml`)
