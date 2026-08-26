@@ -1,4 +1,4 @@
-[![CI/CD Pipeline](https://github.com/jlm-world/devops1.2-inventoryapi/actions/workflows/deploy.yml/badge.svg)](https://github.com/jlm-world/devops1.2-inventoryapi/actions)
+[![Deploy to EC2](https://github.com/jlm-world/devops1.2-inventoryapi/actions/workflows/deploy.yml/badge.svg)](https://github.com/jlm-world/devops1.2-inventoryapi/actions/workflows/deploy.yml)
 
 # Project 3 — CI/CD + Live Deployment
 
