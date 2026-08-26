@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/jlm-world/devops1.2-inventoryapi/actions/workflows/deploy.yml/badge.svg)](https://github.com/jlm-world/devops1.2-inventoryapi/actions)
+
 # Project 3 — CI/CD + Live Deployment
 
 This project implements a fully automated CI/CD pipeline to deploy the Inventory API (Project 2) to AWS EC2 using GitHub Actions.
